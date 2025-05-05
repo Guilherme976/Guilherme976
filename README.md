@@ -1,19 +1,15 @@
+## Olá eu sou o Guilherme, estudante de Desenvolvimento de sistemas!
 
-<!--
-**Guilherme976/Guilherme976** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
 
-Here are some ideas to get you started:
-
-- 🌱 I’m currently learning React, HTML and CSS
-- 📫 How to reach me: Instagram-@G.fioravanti_s
-- ⚡ Fun fact: I want to be a Software Engineer and I also want to study a systems Dev technologist
--->
-
-<h1>Seja bem-vindo(a) ao meu GitHub</h1>
-
-<h2>Linguagem que mais gostei de trabalhar até o momento:</h2>
-<img src="https://th.bing.com/th/id/OIP.t_ka9UPwjeGl5xAyp9tURQHaHa?rs=1&pid=ImgDetMain" alt="Logo-Python"
-
-
-
-
+  ##
+ 
+<div> 
+  <a href="https://www.instagram.com/g.fioravanti_s?igsh=MXFxd2cwaXl3NGk1NA==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:fioravanti.guigui@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
