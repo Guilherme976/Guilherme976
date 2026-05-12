@@ -7,7 +7,7 @@
   <img align="center" alt="Rafa-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="Rafa-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="Rafa-JS" height="30" width="40" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/sql/sql-original.svg](https://tse2.mm.bing.net/th/id/OIP.9BqiSGV7cd9tIWjJn2PTRwHaHa?cb=thfvnext&rs=1&pid=ImgDetMain&o=7&rm=3)">
+  <img align="center" alt="Rafa-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div>
 
   ##
